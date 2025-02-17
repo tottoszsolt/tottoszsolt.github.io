@@ -1,0 +1,36 @@
+.body {
+  font-family:monospace;
+  max-width:60em;
+  margin:0 auto;
+  background:url('/home/totto/workspace/Sajat/img/bbg.png'), #89ddb6;
+}
+.box {
+  border:2px solid black;
+  margin:30px;
+  padding:24px;
+  background:#6F8695;
+}
+.p {
+  text-align:justify
+}
+
+.bodyp {
+  font-family:monospace;
+  max-width:60em;
+  margin:0 auto;
+  background:url('/home/totto/workspace/Sajat/img/bbg.png'), #75485E;
+}
+
+.bodyg {
+  font-family:monospace;
+  max-width:60em;
+  margin:0 auto;
+  background:url('/home/totto/workspace/Sajat/img/bbg.png'), #FFC09F;
+}
+
+.bodyam {
+  font-family:monospace;
+  max-width:60em;
+  margin:0 auto;
+  background:url('/home/totto/workspace/Sajat/img/bbg.png'), #F6CA83;
+}
